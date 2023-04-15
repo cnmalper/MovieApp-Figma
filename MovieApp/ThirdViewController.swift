@@ -54,15 +54,7 @@ class ThirdViewController: UIViewController {
     }
     
     // MARK - Favourite (Heart) Button
-    
-//    @IBAction func favouriteButton(_ sender: Any) {
-//        if heartColorFlag == true {
-//            heartImage.tintColor = UIColor.red
-//            heartColorFlag = false
-//        }else{
-//            heartImage.tintColor = UIColor.white
-//            heartColorFlag = true
-//        }
-//    }
+
+    // Action will be added in new part of the project.
     
 }
